@@ -1,5 +1,6 @@
 package com.java.array;
 
+
 public class ArrayExample1 {
 
 	public static void main(String[] args) {
